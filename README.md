@@ -1,2 +1,2 @@
-# sorting-algorithms
-The different sorting algorithms made for Data Structures Assignment
+# Sorting Algorithm
+Bubble sort (both recursive and non recursive), Insertion Sort, Quicksort, Random Quick Sort, Mergesort
